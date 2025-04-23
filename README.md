@@ -2,25 +2,25 @@
 
 <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+Eu+sou+o+Guilherme!;Sou+um+Web+Developer.;+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+Guilherme!;I'm+a+Web+Developer.;+Welcome+to+my+profile!)](https://git.io/typing-svg)
  
 </div>
 
 <br clear="both">
 
 <p>
-  Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
+  Hello 👋, I'm Guilherme! A passionate programming student from Brazil.
 
-  - 🌱 I'm currently studying Full-Stack Development in a technical course called **DevClub**.
+  - 🌱 I'm currently studying Full-Stack Development in a technical course called **OneBitCode**.
 
-  - 🔭 Looking for my first job opportunity in Web Development.
+  - 🔭 Looking for a job opportunity in Web Development.
 </p>
 
 <p>👨‍💻 More About Me
   
-  - 💬 Currently living in São Paulo, Brazil. I have experience with JavaScript, HTML5, CSS, TypeScript, React, and Node.js, as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
+  - 💬 Currently living in Vila Velha, Espírito Santo, Brazil. I have experience with HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git, MySQL and Figma as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
 
-  - ⚡ I enjoy reading, watching movies, and series! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
+  - ⚡ I enjoy reading, going to gym and playing videogames! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
 </p>
 
 ---
@@ -33,10 +33,13 @@
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 </div>
 
@@ -49,7 +52,7 @@
 
 <div align="center">
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustavo-Santos-Dev&theme=transparent&card_width=900)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guipm2&theme=transparent&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,16 +68,16 @@
 
 <div align="center">
 <p align="center"><b>Visitors Count</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=Gustavo-Santos-Dev&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=guipm2&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
 </div>
 
 <br>
 
 <div align="center">
 <h3> Contact Me </h3>
-<a href="https://wa.me/5511916910973?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
-<a href="mailto:gustavohsantoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/5527992630725?text=Hi! Went from GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="mailto:guipm2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/guipm2" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
