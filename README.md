@@ -11,11 +11,11 @@
 <p>
   Olá 👋, eu sou o Guilherme! Desenvolvedor Web e atual estudante de Ciência da Computação.
 
-  - 📚 Atualmente, curso bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
+  - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
-  - 🌱 No momento, estudo Desenvolvimento Full-Stack no curso **Full-Stack JavaScript** da **OneBitCode**.
+  - 🌱 No momento, estou realizando um curso de Desenvolvimento Full-Stack na plataforma da **OneBitCode**.
 
-  - 🔭 Atualmente, busco uma oportunidade na área de tecnologia para aplicar e ampliar minhas habilidades em um ambiente desafiador.
+  - 🔭 Estou em busca uma oportunidade na área de tecnologia para aplicar e ampliar minhas habilidades em um ambiente desafiador.
   
   - Vamos elevar padrões e superar expectativas juntos? 🚀
 </p>
