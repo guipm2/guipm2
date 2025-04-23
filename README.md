@@ -9,9 +9,11 @@
 <br clear="both">
 
 <p>
-  Hello 👋, I'm Guilherme! A passionate programming student from Brazil.
+  Hello 👋, I'm Guilherme! A passionate Web Developer and bachelor student in Computer Science from Brazil.
 
-  - 🌱 I'm currently studying Full-Stack Development in a technical course called **OneBitCode**.
+  - 📚 Currently a bachelor student in **Computer Science** at **Universidade Vila Velha (UVV)**.
+
+  - 🌱 I'm currently studying Full-Stack Development in a web course called **Full-Stack JavaScript** at **OneBitCode**.
 
   - 🔭 Looking for a job opportunity in Web Development.
 </p>
