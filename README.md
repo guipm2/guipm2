@@ -17,7 +17,7 @@
 
   - 🔭 Estou em busca uma oportunidade na área de tecnologia para aplicar e ampliar minhas habilidades em um ambiente desafiador.
   
-  - 🚀 Vamos elevar padrões e superar expectativas juntos?
+  - 🚀 Vamos elevar padrões e superar expectativas juntos!
 </p>
 
 <p>👨‍💻 Mais sobre mim
