@@ -2,14 +2,14 @@
 
 <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+sou+o+Guilherme!;Sou+Desenvolvedor+Web.;+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+sou+o+Guilherme!;Sou+Desenvolvedor+Web.;+Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
  
 </div>
 
 <br clear="both">
 
 <p>
-  Olá 👋, eu sou o Guilherme! Desenvolvedor Web e atual estudante de Ciência da Computação.
+  Olá 👋, eu sou o Guilherme! Desenvolvedor Web e estudante de Ciência da Computação.
 
   - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
