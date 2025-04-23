@@ -18,7 +18,7 @@
 
 <p>👨‍💻 More About Me
   
-  - 💬 Currently living in Vila Velha, Espírito Santo, Brazil. I have experience with HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git, MySQL and Figma as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
+  - 💬 Currently living in Vila Velha, Espírito Santo, Brazil. I have experience with HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git and Figma as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
 
   - ⚡ I enjoy reading, going to gym and playing videogames! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
 </p>
@@ -36,10 +36,8 @@
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-<img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 </div>
 
