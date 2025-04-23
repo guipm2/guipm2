@@ -20,7 +20,7 @@
   
   - 💬 Currently living in Vila Velha, Espírito Santo, Brazil. I have experience with HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git and Figma as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
 
-  - ⚡ I enjoy reading, going to gym and playing videogames! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
+  - ⚡ I enjoy reading, going to gym and playing videogames! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving. Love to think outside the box! 📦
 </p>
 
 ---
