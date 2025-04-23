@@ -2,32 +2,34 @@
 
 <div align="center">
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+I'm+Guilherme!;I'm+a+Web+Developer.;+Welcome+to+my+profile!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+sou+o+Guilherme!;Sou+Desenvolvedor+Web.;+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
  
 </div>
 
 <br clear="both">
 
 <p>
-  Hello 👋, I'm Guilherme! A passionate Web Developer and bachelor student in Computer Science from Brazil.
+  Olá 👋, eu sou o Guilherme! Um Desenvolvedor Web e atual estudante de Ciência da Computação.
 
-  - 📚 Currently a bachelor student in **Computer Science** at **Universidade Vila Velha (UVV)**.
+  - 📚 Atualmente, curso bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
-  - 🌱 I'm currently studying Full-Stack Development in a web course called **Full-Stack JavaScript** at **OneBitCode**.
+  - 🌱 No momento, estudo Desenvolvimento Full-Stack no curso **Full-Stack JavaScript** da **OneBitCode**.
 
-  - 🔭 Looking for a job opportunity in Web Development.
+  - 🔭 Atualmente, busco uma oportunidade na área de tecnologia para aplicar e ampliar minhas habilidades em um ambiente desafiador.
+  
+  - Vamos elevar padrões e superar expectativas juntos? 🚀
 </p>
 
-<p>👨‍💻 More About Me
+<p>👨‍💻 Mais sobre mim
   
-  - 💬 Currently living in Vila Velha, Espírito Santo, Brazil. I have experience with HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git and Figma as well as some highly useful agile methodologies in the tech field, including PDCA, Kanban, and 5W2H.
+  - 💬 Moro em Vila Velha, Espírito Santo, Brasil. Tenho experiência com HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git e Figma, além de metodologias ágeis como PDCA, Kanban e 5W2H.
 
-  - ⚡ I enjoy reading, going to gym and playing videogames! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving. Love to think outside the box! 📦
+  - ⚡ Gosto de ler, ir à academia e jogar videogames! Acredito que nossos interesses pessoais aperfeiçoam nossa percepção e ajudam na resolução de problemas. Adoro pensar fora da caixa! 📦
 </p>
 
 ---
 
-### Main skills:
+### Principais habilidades:
 <div align="left"> 
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -60,24 +62,25 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+![Gráfico de atividade do GitHub](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
 </div>
 
 <br>
 
 <div align="center">
-<p align="center"><b>Visitors Count</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=guipm2&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+<p align="center"><b>Contador de visitantes</b></p> 
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=guipm2&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=">
 </div>
 
 <br>
 
 <div align="center">
-<h3> Contact Me </h3>
-<a href="https://wa.me/5527992630725?text=Hi! Went from GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<h3> Contato </h3>
+<a href="https://wa.me/5527992630725?text=Oi!%20Vim%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:guipm2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a  href="https://www.linkedin.com/in/guipm2" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guipm2" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
+****
