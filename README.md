@@ -24,7 +24,9 @@
   
   - 💬 Moro em Vila Velha, Espírito Santo, Brasil. Tenho experiência com HTML5, CSS, JavaScript, TypeScript, React, Node.js, Angular, Python, Git e Figma, além de metodologias ágeis como PDCA, Kanban e 5W2H.
 
-  - ⚡ Gosto de ler, ir à academia e jogar videogames. Acredito que nossos interesses pessoais aperfeiçoam nossa percepção e ajudam na resolução de problemas. Adoro pensar fora da caixa! 📦
+  - ⚡ Gosto de ler, ir à academia e jogar videogames. Acredito que nossos interesses pessoais aperfeiçoam nossa percepção e ajudam na resolução de problemas.
+  
+  - 📦 Adoro pensar fora da caixa!
 </p>
 
 ---
