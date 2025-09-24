@@ -9,7 +9,7 @@
 <br clear="both">
 
 <p>
-  Olá 👋, eu sou o Guilherme! Desenvolvedor Web e estudante de Ciência da Computação.
+  Olá 👋, eu sou o Guilherme! Desenvolvedor Full-Stack e estudante de Ciência da Computação.
 
   - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
