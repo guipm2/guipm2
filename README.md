@@ -13,9 +13,9 @@
 
   - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
-  - 🌱 No momento, estou realizando um curso de Desenvolvimento Full-Stack na plataforma da **OneBitCode**.
+  - 🌱 No momento, estou realizando um curso de Análise de Dados e Automações com Python na plataforma da **OneBitCode**.
 
-  - 🔭 Estou em busca uma oportunidade na área de tecnologia para aplicar e ampliar minhas habilidades em um ambiente desafiador.
+  - 🔭 Atualmente trabalhando como Desenvolvedor Full-Stack na **@turbo.partners**.
   
   - 🚀 Vamos elevar padrões e superar expectativas juntos!
 </p>
