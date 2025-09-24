@@ -15,7 +15,7 @@
 
   - 🌱 No momento, estou realizando um curso de Análise de Dados e Automações com Python na plataforma da **OneBitCode**.
 
-  - 🔭 Atualmente trabalhando como Desenvolvedor Full-Stack & Automations na **@turbo.partners**.
+  - 🔭 Atualmente trabalhando como *Full-Stack & Automations Developer* na **@turbo.partners**.
   
   - 🚀 Vamos elevar padrões e superar expectativas juntos!
 </p>
