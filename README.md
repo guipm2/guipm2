@@ -14,8 +14,6 @@
   - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
 
   - 🌱 No momento, estou realizando um curso de Análise de Dados e Automações com Python na plataforma da **OneBitCode**.
-
-  - 🔭 Atualmente trabalhando como *Full-Stack & Automations Developer* na **@turbo.partners**.
   
   - 🚀 Vamos elevar padrões e superar expectativas juntos!
 </p>
