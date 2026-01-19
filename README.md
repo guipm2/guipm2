@@ -54,7 +54,7 @@
 
 <div align="center">
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=guipm2&theme=transparent&card_width=900)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=guipm2&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
