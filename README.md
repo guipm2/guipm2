@@ -12,6 +12,8 @@
   Olá 👋, eu sou o Guilherme! Desenvolvedor Full-Stack e estudante de Ciência da Computação.
 
   - 📚 Atualmente estou cursando bacharelado em **Ciência da Computação** na **Universidade Vila Velha (UVV)**.
+  
+  - 💼 Atualmente trabalhando como **Desenvolvedor de Automações Jr.** na **@Devsky**.
 
   - 🌱 No momento, estou realizando um curso de Análise de Dados e Automações com Python na plataforma da **OneBitCode**.
   
