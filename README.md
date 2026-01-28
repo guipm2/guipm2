@@ -53,29 +53,6 @@
 <br clear="both">
 
 <div align="center">
-
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=guipm2&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
-<br clear="both">
-
-<div align="center" >
-   
-![Gráfico de atividade do GitHub](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-
-</div>
-
-<br>
-
-<div align="center">
-<p align="center"><b>Contador de visitantes</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=guipm2&s=40&c=21509c&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=">
-</div>
-
-<br>
-
-<div align="center">
 <h3> Contato </h3>
 <a href="https://wa.me/5527992630725?text=Oi!%20Vim%20do%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:guipm2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
