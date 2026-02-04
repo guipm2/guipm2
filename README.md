@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c">
-
 <div align="center">
   
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=3683FF&center=true&vCenter=true&width=800&height=60&lines=Olá%2C+sou+o+Guilherme!;Sou+Desenvolvedor+Web.;+Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
@@ -60,5 +58,3 @@
 <a href="mailto:guipm2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guipm2" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21509c&section=footer">
